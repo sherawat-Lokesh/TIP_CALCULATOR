@@ -1,3 +1,3 @@
 # TIP CALCULATOR
 
-PROJECT LINK = 
+PROJECT LINK = https://tip-calculator-sherawat.netlify.app/
